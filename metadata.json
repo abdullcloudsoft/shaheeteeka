@@ -1,0 +1,6 @@
+{
+  "name": "Shahi Tikka House",
+  "description": "Authentic Pakistani Tikka & BBQ restaurant located on Main Commercial Market Road, Satellite Town, Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
